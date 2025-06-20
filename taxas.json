@@ -1,6 +1,6 @@
 {
   "visa": {
-    "taxaParcelamento": 0.169,
+    "taxaParcelamento": 0.0169,
     "taxas": {
       "1": 0.0329,
       "2-6": 0.0230,
